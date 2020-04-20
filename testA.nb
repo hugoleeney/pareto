@@ -1,0 +1,9 @@
+Notebook[{
+},
+WindowSize->{808, 755},
+WindowMargins->{{46, Automatic}, {-398, Automatic}},
+FrontEndVersion->"12.1 for Mac OS X x86 (64-bit) (March 18, 2020)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"389d15b8-3a9a-4383-ac81-c7f1e0f4f219"
+]
+
